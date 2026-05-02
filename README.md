@@ -13,11 +13,11 @@ Com um background sólido em engenharia, trago um olhar analítico e rigoroso pa
 <br />
 
 <div align="center">
-  <!-- Status de Contribuições (Streak) -->
+  <!-- Status de Contribuições (Este funcionou na sua imagem) -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardohnascimento90&theme=nord" />
   
-  <!-- Linguagens mais usadas (Alternativa) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohnascimento90&layout=compact&theme=nord" />
+  <!-- Cartão de Linguagens (Versão Alternativa mais leve) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohnascimento90&layout=compact&theme=nord&hide_border=false&langs_count=6" />
 </div>
 
 <br />
