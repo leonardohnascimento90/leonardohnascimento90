@@ -13,11 +13,11 @@ Com um background sólido em engenharia, trago um olhar analítico e rigoroso pa
 <br />
 
 <div align="center">
-  <!-- Status de Contribuições (Este funcionou na sua imagem) -->
+  <!-- Card de Streak (O que já estava funcionando) -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardohnascimento90&theme=nord" />
   
-  <!-- Cartão de Linguagens (Versão Alternativa mais leve.) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohnascimento90&layout=compact&theme=nord&hide_border=false&langs_count=6" />
+  <!-- Alternativa para o Card de Linguagens -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardohnascimento90&theme=nord" />
 </div>
 
 <br />
