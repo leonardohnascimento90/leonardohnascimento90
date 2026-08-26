@@ -1,6 +1,6 @@
 # Olá, eu sou Leonardo Nascimento! 👋
 
-**QA Analyst | Test Automation Engineer**
+**Analista de Testes | QA Analyst**
 
 Sou formado em Tecnologia da Informação. 
 Com um background sólido em engenharia, trago um olhar analítico e rigoroso para a área de **Quality Engineering**.
